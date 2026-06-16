@@ -1,2 +1,2 @@
 # html-css-practice
-A collection of my HTML and CSS learning projects covering fundamentals like tables, forms, layouts, flexbox, and mini UI designs.
+A collection of my HTML and CSS learning projects covering fundamentals like tables, forms, layouts.
